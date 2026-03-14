@@ -12,6 +12,6 @@ The base dataset is the Congressional Election Survey (CES) Cumulative Common Co
 [ Previous analysis files (not in Nature submission) using Coarsened Exact Matching] 
 
 • TTD- MFOL CEM and DiD R code.zip <br>
-• TTD- MFOL CEM DTA files.zip<br>
 • TTD- MFOL CEM Stata CSVs.zip<br>
 • TTD- MFOL CEM Stata Do files.zip<br>
+• TTD- MFOL CEM DTA files zipped.zip
